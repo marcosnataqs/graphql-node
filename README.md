@@ -1,2 +1,2 @@
 # graphql-node
-A API Graphql with Nodejs
+Graphql API with Nodejs
